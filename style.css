@@ -1,0 +1,25 @@
+body {
+
+background-color: green;
+color: burlywood;
+padding: 10px;
+
+}
+
+#bee_picture {
+	
+float:left;
+	
+}
+
+#description {
+	
+float:right;
+	
+}
+
+#reviews{
+
+clear:both;	
+	
+}
